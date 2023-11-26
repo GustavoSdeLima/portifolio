@@ -1,5 +1,4 @@
-# portifolio
-# Portfólio [Seu Nome]
+# portifolio Gustavo Salvador de Lima
 
 Bem-vindo ao meu repositório de portfólio! Este é um espaço onde compartilho alguns dos projetos nos quais tenho trabalhado. Aqui, você encontrará uma variedade de aplicações, scripts e trabalhos que demonstram minhas habilidades e interesses no campo da programação e desenvolvimento.
 
